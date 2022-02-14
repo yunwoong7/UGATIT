@@ -21,7 +21,7 @@ U-GAT-IT
 
 
 
-## Pretrained model
+## Pretrained model 
 
 먼저 수행을 하기 위해서는 predtrained model 을 다운로드 받아야 합니다. 50 epoch과 100 epoch 체크포인트가 있으며 용량이 조금 큽니다. (4GB 이상)
 
